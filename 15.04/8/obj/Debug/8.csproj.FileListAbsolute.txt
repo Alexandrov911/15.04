@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\15.04\15.04\8\bin\Debug\8.exe.config
+C:\Users\Lenovo\Desktop\15.04\15.04\8\bin\Debug\8.exe
+C:\Users\Lenovo\Desktop\15.04\15.04\8\bin\Debug\8.pdb
+C:\Users\Lenovo\Desktop\15.04\15.04\8\obj\Debug\8.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\15.04\15.04\8\obj\Debug\8.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\15.04\15.04\8\obj\Debug\8.exe
+C:\Users\Lenovo\Desktop\15.04\15.04\8\obj\Debug\8.pdb

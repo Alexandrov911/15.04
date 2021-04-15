@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\15.04\15.04\9\bin\Debug\9.exe.config
+C:\Users\Lenovo\Desktop\15.04\15.04\9\bin\Debug\9.exe
+C:\Users\Lenovo\Desktop\15.04\15.04\9\bin\Debug\9.pdb
+C:\Users\Lenovo\Desktop\15.04\15.04\9\obj\Debug\9.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\15.04\15.04\9\obj\Debug\9.exe
+C:\Users\Lenovo\Desktop\15.04\15.04\9\obj\Debug\9.pdb
